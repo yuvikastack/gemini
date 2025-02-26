@@ -1,4 +1,1 @@
-streamlit
-google-gemrativeai
-dotenv
-python-dotenv
+
